@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://repository-images.githubusercontent.com/388559276/152b7163-d267-4e23-8e52-b4103af10299"
+    src="./src/assets/repo/banner-ignite-react-native.png"
     width="450"
     height="190"
   />
