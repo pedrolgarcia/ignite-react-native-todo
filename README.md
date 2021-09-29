@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./src/assets/repo/banner-ignite-react-native.png"
+    src="./src/assets/repo/banner-ignite.png"
     width="450"
     height="190"
   />
@@ -20,9 +20,9 @@ A ferramenta conta com um leque de funcionalidades simples porém poderoso, torn
 - [x] Exclusão de tarefa
 - [x] Marcar/desmarcar tarefa como concluída
 - [x] Contador de tarefa
-- [ ] Edição de tarefa
-- [ ] Validação de tarefa duplicada
-- [ ] Confirmação de exclusão de tarefa
+- [X] Edição de tarefa
+- [X] Validação de tarefa duplicada
+- [x] Confirmação de exclusão de tarefa
 
 ### 🛠 Tecnologias
 
