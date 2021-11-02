@@ -68,7 +68,7 @@ $ yarn android
  <br />
 
 [![Twitter Badge](https://img.shields.io/badge/-@pedrolgarc-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pedrolgarc)](https://twitter.com/pedrolgarc) [![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lopes-324386161/)](https://www.linkedin.com/in/pedro-lopes-324386161/) 
-[![Gmail Badge](https://img.shields.io/badge/-pedrolopes.info@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrolopes.info@gmail.com)](mailto:pedrolopes.info@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pedrolopesgrc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrolopesgrc@gmail.com)](mailto:pedrolopesgrc@gmail.com)
 
 
 ### 📝 License
